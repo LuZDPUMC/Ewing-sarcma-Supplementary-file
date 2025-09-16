@@ -1,0 +1,1 @@
+The "Supplementary Tables. xlsx" file is a supplementary table to the article "Identification of Core Prognostic and Immune Characteristics of Ewing's Sarcoma through Integrated Transcriptome Analysis".
